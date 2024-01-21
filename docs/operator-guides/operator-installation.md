@@ -71,7 +71,7 @@ Firstly, let's make sure your system has the latest package information.
 sudo apt update
 ```
 
-Now, let's fetch the Go programming language for Linux. Execute this command:
+Now, let's fetch the Go programming language, Execute this command:
 
 ```
 wget https://golang.org/dl/go1.21.6.linux-amd64.tar.gz
